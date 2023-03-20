@@ -24,7 +24,7 @@
 ####  ⬇🧐  Onde você pode me encontrar e me enviar uma mensagem!
 [![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vncsl/)
 
-[![card](https://github-readme-stats.vercel.app/api?username=gustavovncsl&theme=default)](https://github.com/gustavovncsl/)  
+
 
 
 
