@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu Github! 🚀👨🏻‍💻
 
 ---
-😁 **Meu nome é Gustavo Venceslau**, tenho 25 anos, gosto muito de criação de sites e sou um eterno aprendiz 🙃. 
+😁 **Meu nome é Gustavo Venceslau**, tenho 29 anos, gosto muito de criação de sites e sou um eterno aprendiz 🙃. 
 
 👨🏽‍💻 **Desenvolvedor Front End** desde 2019, e simplesmente apaixonado pela área.
 
